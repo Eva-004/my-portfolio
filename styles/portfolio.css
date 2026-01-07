@@ -94,3 +94,46 @@ nav .logo h2{
     max-width: 584px;
     vertical-align: middle;
    }
+   #about{
+    width: 71%;
+    max-width: 1140px;
+    border: 2px solid white;
+    margin: 130px 230px;
+    background-color: #FFF8F3;
+   }
+   #about .about-container{
+   
+    margin: 131px 156px;
+    text-align: center;
+   }
+ .section-title{
+      font-size: 35px;
+      font-weight: bold;
+      color: #181818;
+      margin-bottom: 30px;
+   }
+ .section-text{
+    font-size: 18;
+    line-height: 30px;
+    color: #757575;
+    margin-bottom: 30px;
+ }
+ .about-footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+ .about-footer .about-card{
+    padding: 5px;
+ }
+ .about-card p{
+    font-size: 20;
+    line-height: 30px;
+    color: #757575;
+ }
+ .about-card h4{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: bold;
+    color:#474747;
+ }
